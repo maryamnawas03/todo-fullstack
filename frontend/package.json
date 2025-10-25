@@ -1,0 +1,25 @@
+{
+  "name": "todo-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for Todo Full-stack Application",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": ["todo", "react", "vite", "frontend"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "axios": "^1.6.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.37",
+    "@types/react-dom": "^18.2.15",
+    "@vitejs/plugin-react": "^4.1.0",
+    "vite": "^4.5.0"
+  }
+}
